@@ -142,3 +142,6 @@ cython_debug/
 .ipynb_checkpoints
 .mypy_cache
 .python-version
+
+.DS_Store
+**/.DS_Store
