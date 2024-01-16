@@ -1,0 +1,54 @@
+{
+    "1_IntroyResultadosPotenciales": {
+        "name": "1_IntroyResultadosPotenciales",
+        "video_urls": [
+            "https://www.youtube.com/embed/lwURhAeHUrE"
+        ],
+        "long_description": null,
+        "ipynbs": {
+            "clase_1": "https://colab.research.google.com/drive/1sjVNnTMQFKKp4IqTn2fqosSfrfYuV1X5",
+            "ejercicios_clase1": "https://colab.research.google.com/drive/1IgLjGW2z8orIH_c6zZKHR1PFQnZoeQCE",
+            "ejercicios_clase1_resueltos": "https://colab.research.google.com/drive/1AQdLqugF4NzCBSA-xFCki82xuUiZqFrn"
+        },
+        "materials": {}
+    },
+    "2_RedesCausales": {
+        "name": "2_RedesCausales",
+        "video_urls": [
+            "https://www.youtube.com/embed/vx467hh4F84"
+        ],
+        "long_description": null,
+        "ipynbs": {
+            "clase_2": "https://colab.research.google.com/drive/1SJTpDw3HLTX8xrD9p9ee2pQRYTquEwiV",
+            "ejercicios_clase2": "https://colab.research.google.com/drive/1y1L06wBjIEwlOkZB0U4xOWR5qChWSqCj",
+            "ejercicios_clase2_resuelto": "https://colab.research.google.com/drive/1ZIbAn94OX3FR8OtBalMwuufbcPFTJ6NI"
+        },
+        "materials": {}
+    },
+    "3_MetodosDeEstimacion": {
+        "name": "3_MetodosDeEstimacion",
+        "video_urls": [
+            "https://www.youtube.com/embed/fVyZRmV01HM"
+        ],
+        "long_description": null,
+        "ipynbs": {
+            "clase_3": "https://colab.research.google.com/drive/1jnIyo1hxXbwXtD1Z-8b21_FjAO-XIM9o",
+            "ejercicios_clase3": "https://colab.research.google.com/drive/1RlYuG9tJ9uPcvWm4sRf4GLwSb5kBBAAc",
+            "ejercicios_clase_3_resueltos": "https://colab.research.google.com/drive/1VWIMJdhQHGPB0NicKbOnjHzInDYo75pa"
+        },
+        "materials": {}
+    },
+    "4_AplicacionesRealesEnLaIndustria": {
+        "name": "4_AplicacionesRealesEnLaIndustria",
+        "video_urls": [
+            "https://www.youtube.com/embed/7s4H-qZ6_rg"
+        ],
+        "long_description": null,
+        "ipynbs": {
+            "clase_4": "https://colab.research.google.com/drive/1GHlLV9QdFazxjHdd3ohlySg8e7f3xGZz",
+            "ejercicio": "https://colab.research.google.com/drive/1a_Hm5OQltgKnn9zqHMcVsWXkIffTRXhF",
+            "ejercicio_solucion": "https://colab.research.google.com/drive/1Qrf_k15nKfSoaxpfzTPjV1vcebLNbNCE"
+        },
+        "materials": {}
+    }
+}
